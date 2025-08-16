@@ -46,7 +46,7 @@
 - **day2_fellow_travellers** : me(@otenkigirl_exe)
 - **already_applied?** : yet.
 - **ticket_hit?** : undetermined.
-- **need_an_additional_application?** : undetermined
+- **need_an_additional_application?** : undetermined.
 - **money_exchange** : no.
 
 # 30_summary_of_serial_and_companion💰
