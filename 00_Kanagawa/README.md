@@ -11,15 +11,15 @@
 
 ## day1_schedule🥁
 
-- **day1_doors_open_time** : N/A
-- **day1_event_start_time** : N/A
-- **day1_finale_time(forecast)** : N/A
+- **day1_doors_open_time** : 1600
+- **day1_event_start_time** : 1700
+- **day1_finale_time(forecast)** : 2000
 
 ## day2_schedule☂️
 
-- **day2_doors_open_time** : N/A
-- **day2_event_start_time** : N/A
-- **day2_finale_time(forecast)** : N/A
+- **day2_doors_open_time** : 1500
+- **day2_event_start_time** : 1600
+- **day2_finale_time(forecast)** : 1900
 
 # 20_serial_and_companion📃
 
