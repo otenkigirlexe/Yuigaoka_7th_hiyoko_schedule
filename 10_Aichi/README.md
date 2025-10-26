@@ -55,53 +55,46 @@
 
 # 40_ticket_price💴
 
-- **ticket_price_for_both_days** : N/A
+- **ticket_price_for_both_days** : 28,870
 
 # 50_transportation_expenses🚅
 
-- **transportation_expenses** : 20,200
+- **transportation_expenses** : 25,960
 
 # 60_hotel🏨
 
-- **name_of_a_hotel** : N/A
-- **Accommodation_Reservations** : N/A
-- **hotel_charge** : N/A
-- **hotel_charge_paid?** : N/A
+- **name_of_a_hotel** : Nagoya b's hotel
+- **Accommodation_Reservations** : yet.
+- **hotel_charge** : 10,800
+- **hotel_charge_paid?** : yet.
 
 # 70_itinerary🛴
 
 ## day1_itinerary🚀
 
-- JR Yokosuka Line Tokyo Terminal >
-- JR Yokosuka Line Totsuka Station >
-- JR Tokaido Line Totsuka Station >
-- JR Tokaido Line Atami Station >
-- JR Tokaido Line Hamamatsu Station >
-- JR Tokaido Line Toyohashi Station >
-- JR Tokaido Line Nagoya Station >
+- Tokaido Shinkansen Tokyo Terminal Kodama 754 1127 >
+- Tokaido Shinkansen Nagoya Station Kodama 754 1406 >
 - Leave your luggage at the inn ( undecided. ) >
-- Meitetsu Nagoya Main Line Limited Express Nagoya Station >
-- Meitetsu Nagoya Main Line Limited Express Central Japan International Airport Station >
+- Meitetsu Nagoya Main Line Limited Express Nagoya Station 1501 >
+- Meitetsu Nagoya Main Line Limited Express Central Japan International Airport Station 1536 >
 - venue >
-- Meitetsu Nagoya Main Line Limited Express Central Japan International Airport Station >
-- Meitetsu Nagoya Main Line Limited Express Nagoya Station >
-- Accommodation ( undecided. )
+- Meitetsu Nagoya Main Line Limited Express Central Japan International Airport Station 2047 >
+- Meitetsu Nagoya Main Line Limited Express Nagoya Station 2124 >
+- Nagoya b's hotel checkin 2150
 
 ## day2_itinerary🚢
 
-- Accommodation ( undecided. ) >
+- Nagoya b's hotel checkout 1000 >
 - Sightseeing and lunch. >
-- Meitetsu Nagoya Main Line Limited Express Nagoya Station >
-- Meitetsu Nagoya Main Line Limited Express Central Japan International Airport Station >
+- Meitetsu Nagoya Main Line Limited Express Nagoya Station 1331 >
+- Meitetsu Nagoya Main Line Limited Express Central Japan International Airport Station 1406 >
 - venue >
-- Meitetsu Nagoya Main Line Limited Express Central Japan International Airport Station >
-- Meitetsu Nagoya Main Line Limited Express Nagoya Station >
+- Meitetsu Nagoya Main Line Limited Express Central Japan International Airport Station 1947 >
+- Meitetsu Nagoya Main Line Limited Express Nagoya Station 2024 >
 - Tokaido Shinkansen Nagoya Station Kodama 754 2046 >
 - Tokaido Shinkansen Tokyo Terminal Kodama 754 2324
 
 # 80_summary🎧
 
-- **total_amount** : N/A
-- **remarks** : Ticket prices, opening times, and start times are still undecided, so these details are not yet available. As a result, the itinerary times are also not yet available.<br>
-The serial code is the same for both days. We may increase the number of tickets depending on the number of applications from other people. <br>Transportation costs are based on fares from Tokyo Terminal.<br>
-Currently, I am planning a two-day trip, but it might be a good idea to take a day off on the third day and return by local train.
+- **total_amount** : 68,930
+- **remarks** : Transportation costs are based on fares from Tokyo Terminal.
