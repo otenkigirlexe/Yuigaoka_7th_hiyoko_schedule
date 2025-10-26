@@ -55,7 +55,7 @@
 
 # 40_ticket_price💴
 
-- **ticket_price_for_both_days** : N/A
+- **ticket_price_for_both_days** : 28,870
 
 # 50_transportation_expenses🚅
 
@@ -72,30 +72,30 @@
 
 ## day1_itinerary🚀
 
-- JR Yokosuka Line Tokyo Terminal >
-- JR Yokosuka Line Musashi-Kosugi Station >
-- Tokyu Meguro Line Musashi-Kosugi Station >
-- Tokyu Shin-Yokohama Line Shin-Yokohama Station >
+- JR Yokosuka Line Tokyo Terminal 1408 >
+- JR Yokosuka Line Musashi-Kosugi Station 1426 >
+- Tokyu Meguro Line Musashi-Kosugi Station 1443 >
+- Tokyu Shin-Yokohama Line Shin-Yokohama Station 1453 >
 - venue >
-- Tokyu Shin-Yokohama Line Shin-Yokohama Station >
-- Tokyu Meguro Line Musashi-Kosugi Station >
-- JR Yokosuka Line Musashi-Kosugi Station >
-- JR Yokosuka Line Tokyo Terminal
+- Tokyu Shin-Yokohama Line Shin-Yokohama Station 2040 >
+- Tokyu Meguro Line Musashi-Kosugi Station 2050 >
+- JR Yokosuka Line Musashi-Kosugi Station 2105 >
+- JR Yokosuka Line Tokyo Terminal 2122
 
 ## day2_itinerary🚢
 
-- JR Yokosuka Line Tokyo Terminal >
-- JR Yokosuka Line Musashi-Kosugi Station >
-- Tokyu Meguro Line Musashi-Kosugi Station >
-- Tokyu Shin-Yokohama Line Shin-Yokohama Station >
+- JR Yokosuka Line Tokyo Terminal 1308 >
+- JR Yokosuka Line Musashi-Kosugi Station 1325 >
+- Tokyu Meguro Line Musashi-Kosugi Station  1335 >
+- Tokyu Shin-Yokohama Line Shin-Yokohama Station 1345 >
 - venue >
-- Tokyu Shin-Yokohama Line Shin-Yokohama Station >
-- Tokyu Meguro Line Musashi-Kosugi Station >
-- JR Yokosuka Line Musashi-Kosugi Station >
-- JR Yokosuka Line Tokyo Terminal
+- Tokyu Shin-Yokohama Line Shin-Yokohama Station 1955 >
+- Tokyu Meguro Line Musashi-Kosugi Station 1005 >
+- JR Yokosuka Line Musashi-Kosugi Station 2021 >
+- JR Yokosuka Line Tokyo Terminal 2039
 
 # 80_summary🎧
 
-- **total_amount** : N/A
+- **total_amount** : 37,099
 - **remarks** : Ticket prices, opening times, and start times are still undecided, so these details are not yet available. As a result, the itinerary times are also not yet available.<br>
 The serial code is the same for both days. We may increase the number of tickets depending on the number of applications from other people. <br>Transportation costs are based on fares from Tokyo Terminal.
