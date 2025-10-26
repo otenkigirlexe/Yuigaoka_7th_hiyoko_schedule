@@ -97,5 +97,4 @@
 # 80_summary🎧
 
 - **total_amount** : 37,099
-- **remarks** : Ticket prices, opening times, and start times are still undecided, so these details are not yet available. As a result, the itinerary times are also not yet available.<br>
-The serial code is the same for both days. We may increase the number of tickets depending on the number of applications from other people. <br>Transportation costs are based on fares from Tokyo Terminal.
+- **remarks** : Transportation costs are based on fares from Tokyo Terminal.
