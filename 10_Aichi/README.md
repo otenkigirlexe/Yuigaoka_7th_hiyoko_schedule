@@ -31,7 +31,7 @@
 - **day1_Serial_Unit_Price** : 1,650
 - **number_of_day1_serials** : 2
 - **day1_fellow_travellers** : me(@otenkigirl_exe)
-- **already_applied?** : yet.
+- **already_applied?** : Already applied for 2 tickes.
 - **ticket_hit?** : undetermined.
 - **need_an_additional_application?** : undetermined.
 - **money_exchange** : no.
@@ -44,7 +44,7 @@
 - **day2_Serial_Unit_Price** : 1,650
 - **number_of_day2_serials** : 2
 - **day2_fellow_travellers** : me(@otenkigirl_exe)
-- **already_applied?** : yet.
+- **already_applied?** : Already applied for 2 tickes.
 - **ticket_hit?** : undetermined.
 - **need_an_additional_application?** : undetermined.
 - **money_exchange** : no.
