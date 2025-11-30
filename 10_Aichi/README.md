@@ -64,8 +64,8 @@
 # 60_hotel🏨
 
 - **name_of_a_hotel** : Nagoya b's hotel
-- **Accommodation_Reservations** : yet.
-- **hotel_charge** : 10,800
+- **Accommodation_Reservations** : Already
+- **hotel_charge** : 11,800
 - **hotel_charge_paid?** : yet.
 
 # 70_itinerary🛴
