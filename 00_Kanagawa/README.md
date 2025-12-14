@@ -32,8 +32,8 @@
 - **number_of_day1_serials** : 1
 - **day1_fellow_travellers** : me(@otenkigirl_exe)
 - **already_applied?** : Already applied for 1 ticket.
-- **ticket_hit?** : undetermined.
-- **need_an_additional_application?** : undetermined.
+- **ticket_hit?** : yes.
+- **need_an_additional_application?** : no.
 - **money_exchange** : no.
 
 ## day2_serial_and_companion📰
@@ -44,9 +44,9 @@
 - **day2_Serial_Unit_Price** : 5,945
 - **number_of_day2_serials** : 1
 - **day2_fellow_travellers** : me(@otenkigirl_exe)
-- **already_applied?** : yet.
-- **ticket_hit?** : Already applied for 1 ticket.
-- **need_an_additional_application?** : undetermined.
+- **already_applied?** : Already applied for 1 ticket.
+- **ticket_hit?** : yes.
+- **need_an_additional_application?** : no.
 - **money_exchange** : no.
 
 # 30_summary_of_serial_and_companion💰
