@@ -29,9 +29,9 @@
 - **day1_Release_and_application_start_date** : 2025/11/05(wed)
 - **day1_application_deadline** : 2025/12/21(sun)
 - **day1_Serial_Unit_Price** : 1,650
-- **number_of_day1_serials** : 2
+- **number_of_day1_serials** : 4
 - **day1_fellow_travellers** : me(@otenkigirl_exe)
-- **already_applied?** : Already applied for 2 tickes.
+- **already_applied?** : Already applied for 4 tickes.
 - **ticket_hit?** : undetermined.
 - **need_an_additional_application?** : undetermined.
 - **money_exchange** : no.
@@ -42,16 +42,16 @@
 - **day2_Release_and_application_start_date** : 2025/11/05(wed)
 - **day2_application_deadline** : 2025/12/21(sun)
 - **day2_Serial_Unit_Price** : 1,650
-- **number_of_day2_serials** : 2
+- **number_of_day2_serials** : 4
 - **day2_fellow_travellers** : me(@otenkigirl_exe)
-- **already_applied?** : Already applied for 2 tickes.
+- **already_applied?** : Already applied for 4 tickes.
 - **ticket_hit?** : undetermined.
 - **need_an_additional_application?** : undetermined.
 - **money_exchange** : no.
 
 # 30_summary_of_serial_and_companion💰
 
-- **total_serial_amount** : 3,300
+- **total_serial_amount** : 6,600
 
 # 40_ticket_price💴
 
@@ -96,5 +96,5 @@
 
 # 80_summary🎧
 
-- **total_amount** : 68,930
+- **total_amount** : 72,230
 - **remarks** : Transportation costs are based on fares from Tokyo Terminal.
